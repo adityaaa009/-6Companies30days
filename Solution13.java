@@ -1,9 +1,8 @@
-import java.util.*;
-class Solution13 {
+class Solution {
     public long minimumCost(
-        String source, String target, char original[], char changed[], int[] cost) {
+        String source, String target, char[] original, char[] changed, int[] cost) {
         final int inf = 1 << 29;
-        int g[][] = new int[26][26];
+        int[][] g = new int[26][26];
         for (int i = 0; i < 26; ++i) {
             Arrays.fill(g[i], inf);
             g[i][i] = 0;
