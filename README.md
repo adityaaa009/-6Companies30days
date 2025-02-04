@@ -1,6 +1,6 @@
 # 6Companies30days Challenge Solutions
 
-This repository contains my solutions to the coding problems presented in the #6Companies30days challenge by Arsh Goyal, a Software Engineer at Samsung. This challenge aims to prepare for technical interviews at top 6 tech companies. like Google, Amazon, Facebook, Microsoft, Apple, and Netflix. 
+This repository contains my solutions to the coding problems presented in the #6Companies30days challenge by Arsh Goyal, a Software Engineer at Samsung. This challenge aims to prepare college students for technical interviews at top 6 tech companies, like Microsoft, Amazon, Walmart, Google, Atlassian and Goldman Sachs. 
 
 **Purpose:**
 
